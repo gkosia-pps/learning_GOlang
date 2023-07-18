@@ -10,7 +10,7 @@ func print_something(name string) (int, int, int) {
 
 	return 1, 2, 3
 }
-func main() {
+func main_05() {
 
 	fmt.Println(print_something("Gab"))
 
